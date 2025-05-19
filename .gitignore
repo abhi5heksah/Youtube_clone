@@ -3,3 +3,14 @@ node_modules
 /.cache
 /build
 .env
+
+
+// this is the .env file structure copy and create a .env files insdide app/.env then add these key and id.
+VITE_YOUTUBE_API_KEY= here google youtube api key 
+VITE_RAPIDAPI_KEY= here rapid api youtube related video api key
+
+GOOGLE_CLIENT_ID= google youtube client id
+GOOGLE_CLIENT_SECRET= google youtube client secret id
+
+//random string
+SESSION_SECRET=9v2cP!aR7#LmQdX5zYtNwKb3JfG6oUsE
